@@ -3,6 +3,7 @@ import time
 import random
 import sys
 
+#Metodo que simula el comportamiento de los vehículos. 
 def simulation(total_time, total_intersections, cars, schedule, intersections, streets, extra_points):
     score = 0
     
